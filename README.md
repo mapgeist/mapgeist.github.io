@@ -1,1 +1,1 @@
-## Mapgeist promo site
+## mapgeist.github.com
